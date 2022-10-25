@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        window.onload = function(){
+            var start = document.getElementById("d5");
+            var arr = [0, 3, 6, 7, 8, 5, 2, 1];
+            var i = 0;
+            var aDiv = document.getElementsByTagName("div");
+            var rom = parseInt(Math.random()*100 + 100);
+            var count =0;
+            var flag = false;
+            start.onmousedown = function () {
+                start.style.transform = "scale(0.9)";
+            }
+            start.onmouseup = function () {
+                start.style.transform = "scale(1)";
+                start.style.transition = "1s";
+            }
+            start.onclick = function(){
+                if(flag == false){
+                    var timer = setInterval(function () {
+                        flag = true;
+                        i ++;
+                        if( i >= arr.length){
+                            i = 0;
+                        }
+                        for(var j = 0; j < aDiv.length; j ++){
+                            aDiv[j].style.border = "none";
+                        }
+                        aDiv[arr[i]].style.border = "2px solid red";
+                        count ++;
+                        if(count >= rom){
+                            clearInterval(timer);
+                            if(i == 0){
+                                alert("恭喜中了"+ 5 + "等奖!")
+                            }else if(i == 1){
+                                alert("恭喜中了"+ 1 + "等奖!")
+                            }else if(i == 2){
+                                alert("恭喜中了"+ 2 + "等奖!")
+                            }else if(i == 3){
+                                alert("恭喜中了"+ 3 + "等奖!")
+                            }else if(i == 4){
+                                alert("恭喜中了"+ 4 + "等奖!")
+                            }else if(i == 5){
+                                alert("谢谢惠顾!")
+                            }else if(i == 6){
+                                alert("恭喜中了"+ 7 + "等奖!")
+                            }else{
+                                alert("恭喜中了"+ 6 + "等奖!")
+                            }
+                        }
+                    },50);
+                }
+            }
+        }
+    </script>
+    <style>
+        body{
+            background: url("image/1.jpg");
+        }
+        div{
+            height: 50px;
+            width: 100px;
+            text-align: center;
+            line-height: 50px;
+            position: relative;
+            left: 200px;
+            top: 50px;
+        }
+        .c1{
+            border: 1px solid black;
+            background: deepskyblue;
+        }
+        #d1{
+            position: absolute;
+            left: 206px;
+            top: 58px;
+        }
+        #d2{
+            position: absolute;
+            left: 206px;
+            top: 112px;
+        }
+        #d3{
+            position: absolute;
+            left: 206px;
+            top: 166px;
+        }
+        #d4{
+            position: absolute;
+            left: 310px;
+            top: 58px;
+        }
+        #d5{
+            position: absolute;
+            left: 310px;
+            top: 112px;
+            background: red;
+        }
+        #d6{
+            position: absolute;
+            left: 310px;
+            top: 166px;
+        }
+        #d7{
+            position: absolute;
+            left: 414px;
+            top: 58px;
+        }
+        #d8{
+            position: absolute;
+            left: 414px;
+            top: 112px;
+        }
+        #d9{
+            position: absolute;
+            left: 414px;
+            top: 166px;
+        }
+    </style>
+</head>
+<body>
+    <div id="d1" class="c1">一等奖</div>
+    <div id="d2" class="c1">五等奖</div>
+    <div id="d3" class="c1">六等奖</div>
+    <div id="d4" class="c1">二等奖</div>
+    <div id="d5">start --></div>
+    <div id="d6" class="c1">七等奖</div>
+    <div id="d7" class="c1">三等奖</div>
+    <div id="d8" class="c1">四等奖</div>
+    <div id="d9" class="c1">谢谢惠顾</div>
+</body>
+</html>
