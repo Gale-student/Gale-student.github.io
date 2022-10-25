@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="77" version="2.0">
+<workbenchAdvisor/>
+<window height="941" maximized="true" width="1581" x="77" y="67">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="103" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="com.genuitec.eclipse.j2eedt.core.ejb" itemType="typeToolBarContribution" x="57" y="22"/>
+<coolItem id="com.genuitec.eclipse.uml.actions" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="com.genuitec.eclipse.web20.actionset" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="com.genuitec.eclipse.ws.xfire.actions" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="com.genuitec.myeclipse.actions.deploytools" itemType="typeToolBarContribution" x="103" y="22"/>
+<coolItem id="com.genuitec.myeclipse.actions.desktop" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="com.genuitec.myeclipse.actions.reporting" itemType="typeToolBarContribution" x="80" y="22"/>
+<coolItem id="com.genuitec.myeclipse.actions.screencapture" itemType="typeToolBarContribution" x="57" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="183" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="103" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="149" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="107" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="206" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.css.core.csssource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="com.genuitec.eclipse.webdesigner3.editors.jsp" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1663509483144" focus="true" label="Workspace - MyEclipse Java Enterprise">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
+<part id="39"/>
+<part id="40"/>
+<part id="41"/>
+<part id="42"/>
+<part id="43"/>
+<part id="44"/>
+<part id="45"/>
+<part id="46"/>
+<part id="47"/>
+<part id="48"/>
+<part id="49"/>
+<part id="50"/>
+<part id="51"/>
+<part id="52"/>
+<part id="112"/>
+<part id="53"/>
+<part id="54"/>
+<part id="55"/>
+<part id="56"/>
+<part id="57"/>
+<part id="58"/>
+<part id="59"/>
+<part id="60"/>
+<part id="61"/>
+<part id="62"/>
+<part id="63"/>
+<part id="64"/>
+<part id="65"/>
+<part id="66"/>
+<part id="67"/>
+<part id="68"/>
+<part id="69"/>
+<part id="70"/>
+<part id="71"/>
+<part id="72"/>
+<part id="73"/>
+<part id="74"/>
+<part id="75"/>
+<part id="76"/>
+<part id="77"/>
+<part id="78"/>
+<part id="79"/>
+<part id="80"/>
+<part id="81"/>
+<part id="82"/>
+<part id="83"/>
+<part id="84"/>
+<part id="85"/>
+<part id="86"/>
+<part id="87"/>
+<part id="88"/>
+<part id="89"/>
+<part id="90"/>
+<part id="91"/>
+<part id="92"/>
+<part id="93"/>
+<part id="94"/>
+<part id="95"/>
+<part id="96"/>
+<part id="97"/>
+<part id="98"/>
+<part id="99"/>
+<part id="100"/>
+<part id="101"/>
+<part id="102"/>
+<part id="103"/>
+<part id="104"/>
+<part id="105"/>
+<part id="106"/>
+<part id="107"/>
+<part id="108"/>
+<part id="109"/>
+<part id="110"/>
+<part id="111"/>
+<part id="113"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="ShopQuery.jsp" partName="ShopQuery.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/ShopQuery.jsp" title="ShopQuery.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/ShopQuery.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/ShopQuery.jsp"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="PagingQuery.jsp" partName="PagingQuery.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/PagingQuery.jsp" title="PagingQuery.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/PagingQuery.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/PagingQuery.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopManagerServlet.java" partName="ShopManagerServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopManagerServlet.java" title="ShopManagerServlet.java" tooltip="weshop/src/com/company/controller/ShopManagerServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopManagerServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1447" selectionTopPixel="185"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopPagingQueryServlet.java" partName="ShopPagingQueryServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopPagingQueryServlet.java" title="ShopPagingQueryServlet.java" tooltip="weshop/src/com/company/controller/ShopPagingQueryServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopPagingQueryServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2349" selectionTopPixel="782"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="ShopAdd.jsp" partName="ShopAdd.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/ShopAdd.jsp" title="ShopAdd.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/ShopAdd.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/ShopAdd.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManagerDao.java" partName="ManagerDao.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/dao/ManagerDao.java" title="ManagerDao.java" tooltip="weshop/src/com/company/dao/ManagerDao.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/dao/ManagerDao.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1039" selectionTopPixel="135"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserDao.java" partName="UserDao.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/dao/UserDao.java" title="UserDao.java" tooltip="weshop/src/com/company/dao/UserDao.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/dao/UserDao.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="69" selectionOffset="2244" selectionTopPixel="557"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManagerDaoImpl.java" partName="ManagerDaoImpl.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/dao/ManagerDaoImpl.java" title="ManagerDaoImpl.java" tooltip="weshop/src/com/company/dao/ManagerDaoImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/dao/ManagerDaoImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6346" selectionTopPixel="3591"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserDaoImpl.java" partName="UserDaoImpl.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/dao/UserDaoImpl.java" title="UserDaoImpl.java" tooltip="weshop/src/com/company/dao/UserDaoImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/dao/UserDaoImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="31" selectionOffset="7404" selectionTopPixel="3967"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserTest.java" partName="UserTest.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/test/UserTest.java" title="UserTest.java" tooltip="weshop/src/com/company/test/UserTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/test/UserTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="965" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserService.java" partName="UserService.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/service/UserService.java" title="UserService.java" tooltip="weshop/src/com/company/service/UserService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/service/UserService.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2125" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserServiceImpl.java" partName="UserServiceImpl.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/service/UserServiceImpl.java" title="UserServiceImpl.java" tooltip="weshop/src/com/company/service/UserServiceImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/service/UserServiceImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3938" selectionTopPixel="2615"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QueryPersonInfoServlet.java" partName="QueryPersonInfoServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/QueryPersonInfoServlet.java" title="QueryPersonInfoServlet.java" tooltip="weshop/src/com/company/controller/QueryPersonInfoServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/QueryPersonInfoServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1005" selectionTopPixel="205"/>
+</editor>
+<editor id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" name="web.xml" partName="web.xml" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/web.xml" title="web.xml" tooltip="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/web.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/weshop/WebRoot/WEB-INF/web.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserQueryOneServlet.java" partName="UserQueryOneServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UserQueryOneServlet.java" title="UserQueryOneServlet.java" tooltip="weshop/src/com/company/controller/UserQueryOneServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UserQueryOneServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1828" selectionTopPixel="900"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserDeleteServlet.java" partName="UserDeleteServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UserDeleteServlet.java" title="UserDeleteServlet.java" tooltip="weshop/src/com/company/controller/UserDeleteServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UserDeleteServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1895" selectionTopPixel="582"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopRemoveServlet.java" partName="ShopRemoveServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopRemoveServlet.java" title="ShopRemoveServlet.java" tooltip="weshop/src/com/company/controller/ShopRemoveServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopRemoveServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="22" selectionOffset="2060" selectionTopPixel="584"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PagingQueryServlet.java" partName="PagingQueryServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/PagingQueryServlet.java" title="PagingQueryServlet.java" tooltip="weshop/src/com/company/controller/PagingQueryServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/PagingQueryServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1732" selectionTopPixel="506"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="ModifyPersonalInfo.jsp" partName="ModifyPersonalInfo.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/ModifyPersonalInfo.jsp" title="ModifyPersonalInfo.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/ModifyPersonalInfo.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/ModifyPersonalInfo.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserModifyUpwdServlet.java" partName="UserModifyUpwdServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UserModifyUpwdServlet.java" title="UserModifyUpwdServlet.java" tooltip="weshop/src/com/company/controller/UserModifyUpwdServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UserModifyUpwdServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="85" selectionOffset="2502" selectionTopPixel="966"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopModifyScountServlet.java" partName="ShopModifyScountServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopModifyScountServlet.java" title="ShopModifyScountServlet.java" tooltip="weshop/src/com/company/controller/ShopModifyScountServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopModifyScountServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2264" selectionTopPixel="582"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopModifySimageServlet.java" partName="ShopModifySimageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopModifySimageServlet.java" title="ShopModifySimageServlet.java" tooltip="weshop/src/com/company/controller/ShopModifySimageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopModifySimageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2368" selectionTopPixel="582"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopModifySpriceServlet.java" partName="ShopModifySpriceServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopModifySpriceServlet.java" title="ShopModifySpriceServlet.java" tooltip="weshop/src/com/company/controller/ShopModifySpriceServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopModifySpriceServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2213" selectionTopPixel="603"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserModifyUaddressServlet.java" partName="UserModifyUaddressServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UserModifyUaddressServlet.java" title="UserModifyUaddressServlet.java" tooltip="weshop/src/com/company/controller/UserModifyUaddressServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UserModifyUaddressServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1663" selectionTopPixel="924"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserModifyUtelServlet.java" partName="UserModifyUtelServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UserModifyUtelServlet.java" title="UserModifyUtelServlet.java" tooltip="weshop/src/com/company/controller/UserModifyUtelServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UserModifyUtelServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1527" selectionTopPixel="561"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Orders.java" partName="Orders.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/entity/Orders.java" title="Orders.java" tooltip="weshop/src/com/company/entity/Orders.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/entity/Orders.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="158" selectionTopPixel="788"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDao.java" partName="OrdersDao.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/dao/OrdersDao.java" title="OrdersDao.java" tooltip="weshop/src/com/company/dao/OrdersDao.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/dao/OrdersDao.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="583" selectionTopPixel="116"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDaoImpl.java" partName="OrdersDaoImpl.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/dao/OrdersDaoImpl.java" title="OrdersDaoImpl.java" tooltip="weshop/src/com/company/dao/OrdersDaoImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/dao/OrdersDaoImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="14477" selectionTopPixel="6311"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersTest.java" partName="OrdersTest.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/test/OrdersTest.java" title="OrdersTest.java" tooltip="weshop/src/com/company/test/OrdersTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/test/OrdersTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="765" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" partName="User.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/entity/User.java" title="User.java" tooltip="weshop/src/com/company/entity/User.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/entity/User.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="87" selectionTopPixel="0"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="ShoppingHomePage.jsp" partName="ShoppingHomePage.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/ShoppingHomePage.jsp" title="ShoppingHomePage.jsp" tooltip="weshop/WebRoot/ShoppingHomePage.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/ShoppingHomePage.jsp"/>
+</editor>
+<editor id="org.eclipse.wst.css.core.csssource.source" name="ManagerHomePage.css" partName="ManagerHomePage.css" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/CSS/ManagerHomePage.css" title="ManagerHomePage.css" tooltip="weshop/WebRoot/CSS/ManagerHomePage.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/CSS/ManagerHomePage.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="236" selectionTopPixel="1254"/>
+</editor>
+<editor id="org.eclipse.wst.css.core.csssource.source" name="ShoppingHomePage.css" partName="ShoppingHomePage.css" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/CSS/ShoppingHomePage.css" title="ShoppingHomePage.css" tooltip="weshop/WebRoot/CSS/ShoppingHomePage.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/CSS/ShoppingHomePage.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="302" selectionTopPixel="63"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="ManagerLogin.jsp" partName="ManagerLogin.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/ManagerLogin.jsp" title="ManagerLogin.jsp" tooltip="weshop/WebRoot/ManagerLogin.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/ManagerLogin.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManagerLoginServlet.java" partName="ManagerLoginServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ManagerLoginServlet.java" title="ManagerLoginServlet.java" tooltip="weshop/src/com/company/controller/ManagerLoginServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ManagerLoginServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1091" selectionTopPixel="142"/>
+</editor>
+<editor activePart="true" focus="true" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="UserLogin.jsp" partName="UserLogin.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/UserLogin.jsp" title="UserLogin.jsp" tooltip="weshop/WebRoot/UserLogin.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/UserLogin.jsp"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="UserRegister.jsp" partName="UserRegister.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/UserRegister.jsp" title="UserRegister.jsp" tooltip="weshop/WebRoot/UserRegister.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/UserRegister.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersService.java" partName="OrdersService.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/service/OrdersService.java" title="OrdersService.java" tooltip="weshop/src/com/company/service/OrdersService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/service/OrdersService.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1749" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersServiceImpl.java" partName="OrdersServiceImpl.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/service/OrdersServiceImpl.java" title="OrdersServiceImpl.java" tooltip="weshop/src/com/company/service/OrdersServiceImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/service/OrdersServiceImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2178" selectionTopPixel="1250"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManagerServiceImpl.java" partName="ManagerServiceImpl.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/service/ManagerServiceImpl.java" title="ManagerServiceImpl.java" tooltip="weshop/src/com/company/service/ManagerServiceImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/service/ManagerServiceImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2709" selectionTopPixel="1718"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopBuyServlet.java" partName="ShopBuyServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopBuyServlet.java" title="ShopBuyServlet.java" tooltip="weshop/src/com/company/controller/ShopBuyServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopBuyServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2269" selectionTopPixel="737"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserLoginServlet.java" partName="UserLoginServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UserLoginServlet.java" title="UserLoginServlet.java" tooltip="weshop/src/com/company/controller/UserLoginServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UserLoginServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2585" selectionTopPixel="374"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="Paying.jsp" partName="Paying.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/Paying.jsp" title="Paying.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/Paying.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/Paying.jsp"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="OrdersQuery.jsp" partName="OrdersQuery.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/OrdersQuery.jsp" title="OrdersQuery.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/OrdersQuery.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/OrdersQuery.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersPagingQueryServlet.java" partName="OrdersPagingQueryServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersPagingQueryServlet.java" title="OrdersPagingQueryServlet.java" tooltip="weshop/src/com/company/controller/OrdersPagingQueryServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersPagingQueryServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2393" selectionTopPixel="499"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LogoutServlet.java" partName="LogoutServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/LogoutServlet.java" title="LogoutServlet.java" tooltip="weshop/src/com/company/controller/LogoutServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/LogoutServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1582" selectionTopPixel="345"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersUpPageServlet.java" partName="OrdersUpPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersUpPageServlet.java" title="OrdersUpPageServlet.java" tooltip="weshop/src/com/company/controller/OrdersUpPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersUpPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="1091" selectionOffset="1679" selectionTopPixel="560"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopUpPageServlet.java" partName="ShopUpPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopUpPageServlet.java" title="ShopUpPageServlet.java" tooltip="weshop/src/com/company/controller/ShopUpPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopUpPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="1028" selectionOffset="1671" selectionTopPixel="651"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDownPageServlet.java" partName="OrdersDownPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersDownPageServlet.java" title="OrdersDownPageServlet.java" tooltip="weshop/src/com/company/controller/OrdersDownPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersDownPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1019" selectionTopPixel="189"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopDownPageServlet.java" partName="ShopDownPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopDownPageServlet.java" title="ShopDownPageServlet.java" tooltip="weshop/src/com/company/controller/ShopDownPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopDownPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="1073" selectionOffset="1673" selectionTopPixel="767"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShoppingHomePageServlet.java" partName="ShoppingHomePageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShoppingHomePageServlet.java" title="ShoppingHomePageServlet.java" tooltip="weshop/src/com/company/controller/ShoppingHomePageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShoppingHomePageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="325" selectionOffset="1522" selectionTopPixel="306"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopAddServlet.java" partName="ShopAddServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopAddServlet.java" title="ShopAddServlet.java" tooltip="weshop/src/com/company/controller/ShopAddServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopAddServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4142" selectionTopPixel="1563"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DownPageInfoServlet.java" partName="DownPageInfoServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/DownPageInfoServlet.java" title="DownPageInfoServlet.java" tooltip="weshop/src/com/company/controller/DownPageInfoServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/DownPageInfoServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2261" selectionTopPixel="704"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UpdownPersonInfoServlet.java" partName="UpdownPersonInfoServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UpdownPersonInfoServlet.java" title="UpdownPersonInfoServlet.java" tooltip="weshop/src/com/company/controller/UpdownPersonInfoServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UpdownPersonInfoServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2518" selectionTopPixel="963"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserRegisterServlet.java" partName="UserRegisterServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UserRegisterServlet.java" title="UserRegisterServlet.java" tooltip="weshop/src/com/company/controller/UserRegisterServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UserRegisterServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1802" selectionTopPixel="419"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="InfoComplete.jsp" partName="InfoComplete.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/InfoComplete.jsp" title="InfoComplete.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/InfoComplete.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/InfoComplete.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CancelOrdersServlet.java" partName="CancelOrdersServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/CancelOrdersServlet.java" title="CancelOrdersServlet.java" tooltip="weshop/src/com/company/controller/CancelOrdersServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/CancelOrdersServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="140" selectionOffset="1923" selectionTopPixel="599"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersQueryByOidServlet.java" partName="OrdersQueryByOidServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersQueryByOidServlet.java" title="OrdersQueryByOidServlet.java" tooltip="weshop/src/com/company/controller/OrdersQueryByOidServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersQueryByOidServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1072" selectionTopPixel="406"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopQueryOneServlet.java" partName="ShopQueryOneServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopQueryOneServlet.java" title="ShopQueryOneServlet.java" tooltip="weshop/src/com/company/controller/ShopQueryOneServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopQueryOneServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1690" selectionTopPixel="546"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersQueryUnpaidServlet.java" partName="OrdersQueryUnpaidServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersQueryUnpaidServlet.java" title="OrdersQueryUnpaidServlet.java" tooltip="weshop/src/com/company/controller/OrdersQueryUnpaidServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersQueryUnpaidServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1622" selectionTopPixel="504"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserEditInfoServlet.java" partName="UserEditInfoServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UserEditInfoServlet.java" title="UserEditInfoServlet.java" tooltip="weshop/src/com/company/controller/UserEditInfoServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UserEditInfoServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1708" selectionTopPixel="458"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopCart.java" partName="ShopCart.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/entity/ShopCart.java" title="ShopCart.java" tooltip="weshop/src/com/company/entity/ShopCart.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/entity/ShopCart.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="262" selectionTopPixel="268"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Shop.java" partName="Shop.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/entity/Shop.java" title="Shop.java" tooltip="weshop/src/com/company/entity/Shop.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/entity/Shop.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="135" selectionTopPixel="630"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AddCartServlet.java" partName="AddCartServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/AddCartServlet.java" title="AddCartServlet.java" tooltip="weshop/src/com/company/controller/AddCartServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/AddCartServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2679" selectionTopPixel="882"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopCartDetail.java" partName="ShopCartDetail.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/entity/ShopCartDetail.java" title="ShopCartDetail.java" tooltip="weshop/src/com/company/entity/ShopCartDetail.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/entity/ShopCartDetail.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="82" selectionTopPixel="0"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="ShopCart.jsp" partName="ShopCart.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/ShopCart.jsp" title="ShopCart.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/ShopCart.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/ShopCart.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopCartViewServlet.java" partName="ShopCartViewServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopCartViewServlet.java" title="ShopCartViewServlet.java" tooltip="weshop/src/com/company/controller/ShopCartViewServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopCartViewServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2098" selectionTopPixel="526"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopTest.java" partName="ShopTest.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/test/ShopTest.java" title="ShopTest.java" tooltip="weshop/src/com/company/test/ShopTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/test/ShopTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="707" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopCartUpPageServlet.java" partName="ShopCartUpPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopCartUpPageServlet.java" title="ShopCartUpPageServlet.java" tooltip="weshop/src/com/company/controller/ShopCartUpPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopCartUpPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2337" selectionTopPixel="635"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UpPageInfoServlet.java" partName="UpPageInfoServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UpPageInfoServlet.java" title="UpPageInfoServlet.java" tooltip="weshop/src/com/company/controller/UpPageInfoServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UpPageInfoServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1860" selectionTopPixel="609"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopCartDownPageServlet.java" partName="ShopCartDownPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopCartDownPageServlet.java" title="ShopCartDownPageServlet.java" tooltip="weshop/src/com/company/controller/ShopCartDownPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopCartDownPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2283" selectionTopPixel="667"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DeleteShopInCartServlet.java" partName="DeleteShopInCartServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/DeleteShopInCartServlet.java" title="DeleteShopInCartServlet.java" tooltip="weshop/src/com/company/controller/DeleteShopInCartServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/DeleteShopInCartServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2007" selectionTopPixel="500"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="index.jsp" partName="index.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/index.jsp" title="index.jsp" tooltip="weshop/WebRoot/index.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/index.jsp"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="alipay.trade.close.jsp" partName="alipay.trade.close.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/alipay.trade.close.jsp" title="alipay.trade.close.jsp" tooltip="weshop/WebRoot/alipay.trade.close.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/alipay.trade.close.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AlipayConfig.java" partName="AlipayConfig.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/alipay/config/AlipayConfig.java" title="AlipayConfig.java" tooltip="weshop/src/com/alipay/config/AlipayConfig.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/alipay/config/AlipayConfig.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3165" selectionTopPixel="352"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="alipay.trade.page.pay.jsp" partName="alipay.trade.page.pay.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/alipay.trade.page.pay.jsp" title="alipay.trade.page.pay.jsp" tooltip="weshop/WebRoot/alipay.trade.page.pay.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/alipay.trade.page.pay.jsp"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="alipay.trade.query.jsp" partName="alipay.trade.query.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/alipay.trade.query.jsp" title="alipay.trade.query.jsp" tooltip="weshop/WebRoot/alipay.trade.query.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/alipay.trade.query.jsp"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="index.jsp" partName="index.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/index.jsp" title="index.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/index.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/index.jsp"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="shopCartPaying.jsp" partName="shopCartPaying.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/shopCartPaying.jsp" title="shopCartPaying.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/shopCartPaying.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/shopCartPaying.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AlipayTradePagePayServlet.java" partName="AlipayTradePagePayServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/AlipayTradePagePayServlet.java" title="AlipayTradePagePayServlet.java" tooltip="weshop/src/com/company/controller/AlipayTradePagePayServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/AlipayTradePagePayServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1723" selectionTopPixel="641"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="alipay.trade.refund.jsp" partName="alipay.trade.refund.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/alipay.trade.refund.jsp" title="alipay.trade.refund.jsp" tooltip="weshop/WebRoot/alipay.trade.refund.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/alipay.trade.refund.jsp"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="notify_url.jsp" partName="notify_url.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/notify_url.jsp" title="notify_url.jsp" tooltip="weshop/WebRoot/notify_url.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/notify_url.jsp"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="alipay.trade.fastpay.refund.query.jsp" partName="alipay.trade.fastpay.refund.query.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/alipay.trade.fastpay.refund.query.jsp" title="alipay.trade.fastpay.refund.query.jsp" tooltip="weshop/WebRoot/alipay.trade.fastpay.refund.query.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/alipay.trade.fastpay.refund.query.jsp"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="return_url.jsp" partName="return_url.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/return_url.jsp" title="return_url.jsp" tooltip="weshop/WebRoot/return_url.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/return_url.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UpwdCheckServlet.java" partName="UpwdCheckServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UpwdCheckServlet.java" title="UpwdCheckServlet.java" tooltip="weshop/src/com/company/controller/UpwdCheckServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UpwdCheckServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="74" selectionOffset="1565" selectionTopPixel="311"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetail.java" partName="OrdersDetail.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/entity/OrdersDetail.java" title="OrdersDetail.java" tooltip="weshop/src/com/company/entity/OrdersDetail.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/entity/OrdersDetail.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="424" selectionTopPixel="835"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManagerService.java" partName="ManagerService.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/service/ManagerService.java" title="ManagerService.java" tooltip="weshop/src/com/company/service/ManagerService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/service/ManagerService.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="17" selectionOffset="1317" selectionTopPixel="164"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Manager.java" partName="Manager.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/entity/Manager.java" title="Manager.java" tooltip="weshop/src/com/company/entity/Manager.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/entity/Manager.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="457" selectionTopPixel="310"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetailQueryAllServlet.java" partName="OrdersDetailQueryAllServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersDetailQueryAllServlet.java" title="OrdersDetailQueryAllServlet.java" tooltip="weshop/src/com/company/controller/OrdersDetailQueryAllServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersDetailQueryAllServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2211" selectionTopPixel="546"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="OrdersQueryOfUser.jsp" partName="OrdersQueryOfUser.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/OrdersQueryOfUser.jsp" title="OrdersQueryOfUser.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/OrdersQueryOfUser.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/OrdersQueryOfUser.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetailDownQueryAllOfUserServlet.java" partName="OrdersDetailDownQueryAllOfUserServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersDetailDownQueryAllOfUserServlet.java" title="OrdersDetailDownQueryAllOfUserServlet.java" tooltip="weshop/src/com/company/controller/OrdersDetailDownQueryAllOfUserServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersDetailDownQueryAllOfUserServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="1027" selectionOffset="1578" selectionTopPixel="602"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetailUpQueryAllOfUserServlet.java" partName="OrdersDetailUpQueryAllOfUserServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersDetailUpQueryAllOfUserServlet.java" title="OrdersDetailUpQueryAllOfUserServlet.java" tooltip="weshop/src/com/company/controller/OrdersDetailUpQueryAllOfUserServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersDetailUpQueryAllOfUserServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1678" selectionTopPixel="540"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="OrdersUnpaidQueryOfUser.jsp" partName="OrdersUnpaidQueryOfUser.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/OrdersUnpaidQueryOfUser.jsp" title="OrdersUnpaidQueryOfUser.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/OrdersUnpaidQueryOfUser.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/OrdersUnpaidQueryOfUser.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetailUnpaidQueryServlet.java" partName="OrdersDetailUnpaidQueryServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersDetailUnpaidQueryServlet.java" title="OrdersDetailUnpaidQueryServlet.java" tooltip="weshop/src/com/company/controller/OrdersDetailUnpaidQueryServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersDetailUnpaidQueryServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2132" selectionTopPixel="566"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetailUnpaidDownPageServlet.java" partName="OrdersDetailUnpaidDownPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersDetailUnpaidDownPageServlet.java" title="OrdersDetailUnpaidDownPageServlet.java" tooltip="weshop/src/com/company/controller/OrdersDetailUnpaidDownPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersDetailUnpaidDownPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2598" selectionTopPixel="622"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetailUnpaidUpPageServlet.java" partName="OrdersDetailUnpaidUpPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersDetailUnpaidUpPageServlet.java" title="OrdersDetailUnpaidUpPageServlet.java" tooltip="weshop/src/com/company/controller/OrdersDetailUnpaidUpPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersDetailUnpaidUpPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="1123" selectionOffset="1609" selectionTopPixel="642"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersCancelOfUserServlet.java" partName="OrdersCancelOfUserServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersCancelOfUserServlet.java" title="OrdersCancelOfUserServlet.java" tooltip="weshop/src/com/company/controller/OrdersCancelOfUserServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersCancelOfUserServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2111" selectionTopPixel="506"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PaymentOfOrdersServlet.java" partName="PaymentOfOrdersServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/PaymentOfOrdersServlet.java" title="PaymentOfOrdersServlet.java" tooltip="weshop/src/com/company/controller/PaymentOfOrdersServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/PaymentOfOrdersServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="22" selectionOffset="417" selectionTopPixel="442"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetailPaidQueryServlet.java" partName="OrdersDetailPaidQueryServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersDetailPaidQueryServlet.java" title="OrdersDetailPaidQueryServlet.java" tooltip="weshop/src/com/company/controller/OrdersDetailPaidQueryServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersDetailPaidQueryServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1768" selectionTopPixel="433"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="OrdersPaidQueryOfUser.jsp" partName="OrdersPaidQueryOfUser.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/WEB-INF/jsp/OrdersPaidQueryOfUser.jsp" title="OrdersPaidQueryOfUser.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/OrdersPaidQueryOfUser.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/WEB-INF/jsp/OrdersPaidQueryOfUser.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetailPaidDownPageServlet.java" partName="OrdersDetailPaidDownPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersDetailPaidDownPageServlet.java" title="OrdersDetailPaidDownPageServlet.java" tooltip="weshop/src/com/company/controller/OrdersDetailPaidDownPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersDetailPaidDownPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1440" selectionTopPixel="362"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetailPaidUpPageServlet.java" partName="OrdersDetailPaidUpPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/OrdersDetailPaidUpPageServlet.java" title="OrdersDetailPaidUpPageServlet.java" tooltip="weshop/src/com/company/controller/OrdersDetailPaidUpPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/OrdersDetailPaidUpPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2463" selectionTopPixel="622"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopCartPayServlet.java" partName="ShopCartPayServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShopCartPayServlet.java" title="ShopCartPayServlet.java" tooltip="weshop/src/com/company/controller/ShopCartPayServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShopCartPayServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2389" selectionTopPixel="752"/>
+</editor>
+<editor id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="UpdateShoppingHomePage.jsp" partName="UpdateShoppingHomePage.jsp" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/WebRoot/UpdateShoppingHomePage.jsp" title="UpdateShoppingHomePage.jsp" tooltip="weshop/WebRoot/UpdateShoppingHomePage.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/WebRoot/UpdateShoppingHomePage.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AaShoppingHomePageServlet.java" partName="AaShoppingHomePageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/AaShoppingHomePageServlet.java" title="AaShoppingHomePageServlet.java" tooltip="weshop/src/com/company/controller/AaShoppingHomePageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/AaShoppingHomePageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1758" selectionTopPixel="579"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShoppingHomePageDownPageServlet.java" partName="ShoppingHomePageDownPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShoppingHomePageDownPageServlet.java" title="ShoppingHomePageDownPageServlet.java" tooltip="weshop/src/com/company/controller/ShoppingHomePageDownPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShoppingHomePageDownPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2344" selectionTopPixel="621"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShoppingHomePageUpPageServlet.java" partName="ShoppingHomePageUpPageServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ShoppingHomePageUpPageServlet.java" title="ShoppingHomePageUpPageServlet.java" tooltip="weshop/src/com/company/controller/ShoppingHomePageUpPageServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ShoppingHomePageUpPageServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="29" selectionOffset="476" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManagerTest.java" partName="ManagerTest.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/test/ManagerTest.java" title="ManagerTest.java" tooltip="weshop/src/com/company/test/ManagerTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/test/ManagerTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="813" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QueryShopBySnameServlet.java" partName="QueryShopBySnameServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/QueryShopBySnameServlet.java" title="QueryShopBySnameServlet.java" tooltip="weshop/src/com/company/controller/QueryShopBySnameServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/QueryShopBySnameServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2197" selectionTopPixel="660"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SendCodeServlet.java" partName="SendCodeServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/SendCodeServlet.java" title="SendCodeServlet.java" tooltip="weshop/src/com/company/controller/SendCodeServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/SendCodeServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="4" selectionOffset="3202" selectionTopPixel="996"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Upwd2CheckServlet.java" partName="Upwd2CheckServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/Upwd2CheckServlet.java" title="Upwd2CheckServlet.java" tooltip="weshop/src/com/company/controller/Upwd2CheckServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/Upwd2CheckServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="16" selectionOffset="1507" selectionTopPixel="291"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UidCheckServlet.java" partName="UidCheckServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/UidCheckServlet.java" title="UidCheckServlet.java" tooltip="weshop/src/com/company/controller/UidCheckServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/UidCheckServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="746"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyCodeCheckServlet.java" partName="MyCodeCheckServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/MyCodeCheckServlet.java" title="MyCodeCheckServlet.java" tooltip="weshop/src/com/company/controller/MyCodeCheckServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/MyCodeCheckServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="2" selectionOffset="1826" selectionTopPixel="597"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResetUserUpwdServlet.java" partName="ResetUserUpwdServlet.java" path="C:/Users/86180/Desktop/阶段测试/WeShop/weshop/src/com/company/controller/ResetUserUpwdServlet.java" title="ResetUserUpwdServlet.java" tooltip="weshop/src/com/company/controller/ResetUserUpwdServlet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/weshop/src/com/company/controller/ResetUserUpwdServlet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1472" selectionTopPixel="441"/>
+</editor>
+</editors>
+<views>
+<view id="com.genuitec.eclipse.ui.HTMLView" partName="Web Browser"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets"/>
+<view id="com.genuitec.eclipse.ast.deploy.core.serverview" partName="Servers">
+<viewState/>
+</view>
+<view id="uky.article.imageviewer.views.ImageView" partName="Image Preview">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hierarchy"/>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>&#x0A;<category IMemento.internal.id="Errors"/>
+<category IMemento.internal.id="Warnings"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.maven.ide.eclipse.MavenModuleFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="com.genuitec.myeclipse.perspective.myeclipseperspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.genuitec.myeclipse.perspective.MyEclipsePerspectiveFactory" id="com.genuitec.myeclipse.perspective.myeclipseperspective" label="MyEclipse Java Enterprise"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.test.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.desktop"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.screencapture"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.examples.actionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.hibernatetools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webtools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.j2eedt.core.ejb"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jsftools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.faceletstools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.maven.pro.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.jpatools"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.portlet.portletactions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.reporting"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.springtools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.strutstools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.tapestrytools"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.restsupport"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.ws.xfire.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.actions.webservices"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.JavaScriptActionSet"/>
+<alwaysOnActionSet id="com.genuitec.javascript.ui.A_OpenActionSet"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.icefaces"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.about.actions"/>
+<alwaysOnActionSet id="com.genuitec.myeclipse.product.actions"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.aop.ui.matcher.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.actionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.ui.ActionSet"/>
+<alwaysOnActionSet id="org.springframework.ide.eclipse.beans.search.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.uml.actions"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.uml2.ui.actions"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.profileActionSet"/>
+<alwaysOnActionSet id="com.genuitec.eclipse.web20.actionset"/>
+<show_view_action id="com.genuitec.eclipse.ast.deploy.core.serverview"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="uky.article.imageviewer.views.ImageView"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="com.genuitec.eclipse.ui.HTMLView"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.EJBProjectCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.NewEARProjectWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.j2eedt.ui.wizard.WebProjectCreationWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.ws.xfire.wizards.NewXFireWebProjectWizard1"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="com.aston.wizards.applet.NewAppletCreationWizard"/>
+<new_wizard_action id="com.aston.wizards.html.NewHtmlCreationWizard"/>
+<new_wizard_action id="com.aston.wizards.jsp.NewJspCreationWizard"/>
+<new_wizard_action id="com.aston.wizards.xhtml.NewXhtmlCreationWizard"/>
+<new_wizard_action id="com.aston.wizards.servlet.NewServletCreationWizard"/>
+<new_wizard_action id="org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewSessionEJBWizard"/>
+<new_wizard_action id="org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewEntityEJBWizard"/>
+<new_wizard_action id="org.jboss.ide.eclipse.jdt.j2ee.ui.wizards.ejb.NewMessageDrivenEJBWizard"/>
+<new_wizard_action id="com.aston.wizards.xml.NewXmlCreationWizard"/>
+<new_wizard_action id="org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard"/>
+<new_wizard_action id="org.eclipse.wst.xsd.ui.internal.wizards.NewXSDWizard"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.org.easystruts.eclipse.wizards.NewFormCreationWizardX1_1"/>
+<new_wizard_action id="com.genuitec.eclipse.struts.org.easystruts.eclipse.wizards.NewActionCreationWizardX1_1"/>
+<new_wizard_action id="com.genuitec.eclipse.dehory.newformwizard"/>
+<new_wizard_action id="com.genuitec.eclipse.reporting.projectwizard"/>
+<new_wizard_action id="com.genuitec.eclipse.uml.wizard.NewUMLModelFileWizard"/>
+<perspective_action id="com.genuitec.eclipse.dehory.dehoryperspective"/>
+<perspective_action id="com.genuitec.eclipse.hibernate.perspective.HibernatePerspective"/>
+<perspective_action id="com.genuitec.eclipse.imageeditor.perspective"/>
+<perspective_action id="com.genuitec.dali.adapter.persistencePerspective"/>
+<perspective_action id="com.genuitec.eclipse.reporting.ReportPerspective"/>
+<perspective_action id="com.genuitec.eclipse.sqlexplorer.perspectives.SQLExplorerPluginPerspective"/>
+<perspective_action id="com.genuitec.eclipse.uml.umlPerspective"/>
+<perspective_action id="com.genuitec.eclipse.web20.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<view id="uky.article.imageviewer.views.ImageView"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="com.genuitec.eclipse.ui.HTMLView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.genuitec.eclipse.ast.deploy.core.serverview"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@1b3409f" orientation="512" selectedTabId="org.eclipse.ui.views.ContentOutline" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@15789a5" orientation="512" selectedTabId="org.eclipse.ui.views.PropertySheet" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.PropertySheet" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="cvslocation">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.749499" ratioLeft="748" ratioRight="250" relationship="2" relative="cvslocation">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.2162593" ratioLeft="407" ratioRight="1475" relationship="2" relative="cvslocation"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1b3409f" ratio="0.74968714" ratioLeft="599" ratioRight="200" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@15789a5" ratio="0.549763" ratioLeft="348" ratioRight="285" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1b3409f">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="bottom" ratio="0.9282561" ratioLeft="841" ratioRight="65" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@ee13c6" ratio="0.6015453" ratioLeft="545" ratioRight="361" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="com.genuitec.eclipse.ui.HTMLView" label="Web Browser"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="com.genuitec.eclipse.ast.deploy.core.serverview" label="Servers"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="topleft" ratio="0.39968404" ratioLeft="253" ratioRight="380" relationship="4" relative="cvslocation">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Hierarchy"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="bottomleft" ratio="0.8057395" ratioLeft="730" ratioRight="176" relationship="4" relative="topleft">
+<folder activePageID="uky.article.imageviewer.views.ImageView" appearance="2" expanded="2">
+<page content="uky.article.imageviewer.views.ImageView" label="Image Preview"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/weshop/WebRoot/UserRegister.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/weshop/src/com/company/controller/UserModifyUpwdServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/weshop/src/com/company/controller/UserModifyUaddressServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/weshop/WebRoot/WEB-INF/jsp/PagingQuery.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/weshop/src/com/company/controller/ResetUserUpwdServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/weshop/src/com/company/controller/UserModifyUtelServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/weshop/src/com/company/controller/UserRegisterServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/weshop/src/com/company/controller/UpdownPersonInfoServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/weshop/WebRoot/UserRegister.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/weshop/src/com/company/controller/SendCodeServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/weshop/src/com/company/controller/MyCodeCheckServlet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" path="/weshop/WebRoot/UserLogin.jsp"/>
+</editors>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position info="not_deleted" x="397" y="20"/>
+</item>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position info="not_deleted" x="1630" y="0"/>
+</item>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position/>
+</item>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position info="not_deleted" x="1676" y="0"/>
+</item>
+<item historyLabel="PagingQuery.jsp" index="3"/>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position info="not_deleted" x="2258" y="0"/>
+</item>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position/>
+</item>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position info="not_deleted" x="1788" y="0"/>
+</item>
+<item historyLabel="UserModifyUpwdServlet.java" index="1">
+<position info="not_deleted" x="2502" y="85"/>
+</item>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position info="not_deleted" x="1660" y="0"/>
+</item>
+<item historyLabel="UserModifyUaddressServlet.java" index="2">
+<position info="not_deleted" x="2239" y="78"/>
+</item>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position info="not_deleted" x="1580" y="0"/>
+</item>
+<item historyLabel="UserModifyUaddressServlet.java" index="2">
+<position info="not_deleted" x="1611" y="0"/>
+</item>
+<item historyLabel="UserModifyUpwdServlet.java" index="1">
+<position info="not_deleted" x="2502" y="85"/>
+</item>
+<item historyLabel="UserModifyUtelServlet.java" index="5">
+<position info="not_deleted" x="1856" y="0"/>
+</item>
+<item historyLabel="PagingQuery.jsp" index="3"/>
+<item historyLabel="UserModifyUaddressServlet.java" index="2">
+<position info="not_deleted" x="1663" y="0"/>
+</item>
+<item historyLabel="UserModifyUtelServlet.java" index="5">
+<position info="not_deleted" x="1527" y="0"/>
+</item>
+<item historyLabel="UserModifyUaddressServlet.java" index="2">
+<position info="not_deleted" x="1729" y="689"/>
+</item>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position info="not_deleted" x="1580" y="0"/>
+</item>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position info="not_deleted" x="1953" y="0"/>
+</item>
+<item historyLabel="ResetUserUpwdServlet.java" index="4">
+<position info="not_deleted" x="1472" y="0"/>
+</item>
+<item historyLabel="UserModifyUaddressServlet.java" index="2">
+<position info="not_deleted" x="1729" y="689"/>
+</item>
+<item historyLabel="UserModifyUaddressServlet.java" index="2">
+<position info="not_deleted" x="1653" y="0"/>
+</item>
+<item historyLabel="UserRegisterServlet.java" index="6">
+<position info="not_deleted" x="1987" y="0"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="0"/>
+<item historyLabel="UpdownPersonInfoServlet.java" index="7">
+<position info="not_deleted" x="2518" y="0"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="0"/>
+<item historyLabel="UserRegisterServlet.java" index="6">
+<position info="not_deleted" x="1802" y="0"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="0"/>
+<item historyLabel="UpdownPersonInfoServlet.java" index="7">
+<position info="not_deleted" x="2518" y="0"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="0">
+<position info="not_deleted" x="5957" y="0"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="8">
+<position info="not_deleted" x="7919" y="0"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="8">
+<position info="not_deleted" x="8326" y="65"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="8">
+<position info="not_deleted" x="8660" y="0"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="8">
+<position info="not_deleted" x="8447" y="77"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="8">
+<position info="not_deleted" x="8391" y="0"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="8">
+<position info="not_deleted" x="8202" y="67"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="8">
+<position info="not_deleted" x="8076" y="58"/>
+</item>
+<item historyLabel="SendCodeServlet.java" index="9">
+<position info="not_deleted" x="3015" y="0"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="0"/>
+<item historyLabel="SendCodeServlet.java" index="9">
+<position info="not_deleted" x="3202" y="4"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="0"/>
+<item historyLabel="MyCodeCheckServlet.java" index="10">
+<position info="not_deleted" x="1826" y="2"/>
+</item>
+<item historyLabel="SendCodeServlet.java" index="9">
+<position info="not_deleted" x="3202" y="4"/>
+</item>
+<item historyLabel="MyCodeCheckServlet.java" index="10">
+<position info="not_deleted" x="1826" y="2"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="0"/>
+<item historyLabel="MyCodeCheckServlet.java" index="10">
+<position info="not_deleted" x="1826" y="2"/>
+</item>
+<item historyLabel="UserRegister.jsp" index="0"/>
+<item active="true" historyLabel="UserLogin.jsp" index="11"/>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@1b3409f"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@15789a5"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResetUserUpwdServlet.java" tooltip="weshop/src/com/company/controller/ResetUserUpwdServlet.java">
+<persistable path="/weshop/src/com/company/controller/ResetUserUpwdServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyCodeCheckServlet.java" tooltip="weshop/src/com/company/controller/MyCodeCheckServlet.java">
+<persistable path="/weshop/src/com/company/controller/MyCodeCheckServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UidCheckServlet.java" tooltip="weshop/src/com/company/controller/UidCheckServlet.java">
+<persistable path="/weshop/src/com/company/controller/UidCheckServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Upwd2CheckServlet.java" tooltip="weshop/src/com/company/controller/Upwd2CheckServlet.java">
+<persistable path="/weshop/src/com/company/controller/Upwd2CheckServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SendCodeServlet.java" tooltip="weshop/src/com/company/controller/SendCodeServlet.java">
+<persistable path="/weshop/src/com/company/controller/SendCodeServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QueryShopBySnameServlet.java" tooltip="weshop/src/com/company/controller/QueryShopBySnameServlet.java">
+<persistable path="/weshop/src/com/company/controller/QueryShopBySnameServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManagerTest.java" tooltip="weshop/src/com/company/test/ManagerTest.java">
+<persistable path="/weshop/src/com/company/test/ManagerTest.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShoppingHomePageUpPageServlet.java" tooltip="weshop/src/com/company/controller/ShoppingHomePageUpPageServlet.java">
+<persistable path="/weshop/src/com/company/controller/ShoppingHomePageUpPageServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShoppingHomePageDownPageServlet.java" tooltip="weshop/src/com/company/controller/ShoppingHomePageDownPageServlet.java">
+<persistable path="/weshop/src/com/company/controller/ShoppingHomePageDownPageServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AaShoppingHomePageServlet.java" tooltip="weshop/src/com/company/controller/AaShoppingHomePageServlet.java">
+<persistable path="/weshop/src/com/company/controller/AaShoppingHomePageServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="UpdateShoppingHomePage.jsp" tooltip="weshop/WebRoot/UpdateShoppingHomePage.jsp">
+<persistable path="/weshop/WebRoot/UpdateShoppingHomePage.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShopCartPayServlet.java" tooltip="weshop/src/com/company/controller/ShopCartPayServlet.java">
+<persistable path="/weshop/src/com/company/controller/ShopCartPayServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetailPaidUpPageServlet.java" tooltip="weshop/src/com/company/controller/OrdersDetailPaidUpPageServlet.java">
+<persistable path="/weshop/src/com/company/controller/OrdersDetailPaidUpPageServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrdersDetailPaidDownPageServlet.java" tooltip="weshop/src/com/company/controller/OrdersDetailPaidDownPageServlet.java">
+<persistable path="/weshop/src/com/company/controller/OrdersDetailPaidDownPageServlet.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.webdesigner3.editors.jsp" name="OrdersPaidQueryOfUser.jsp" tooltip="weshop/WebRoot/WEB-INF/jsp/OrdersPaidQueryOfUser.jsp">
+<persistable path="/weshop/WebRoot/WEB-INF/jsp/OrdersPaidQueryOfUser.jsp"/>
+</file>
+</mruList>
+</workbench>

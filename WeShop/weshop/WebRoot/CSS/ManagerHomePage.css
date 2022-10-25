@@ -1,0 +1,94 @@
+@CHARSET "UTF-8";
+/*顶部样式start*/
+body{
+    font: 14px/1.5 "Helvetica Neue",Helvetica Neue;  /*黑体*/
+    color: black;
+}
+.topBar{
+    width:100%;
+    height: 40px;
+    background-color: skyblue;
+}
+.container{
+    width: 1500px;
+    height: 100%;
+    margin: 0 auto;
+}
+.topBar .topBar_list{
+    float:left;
+    text-align: center;
+    line-height: 40px;
+}
+.topBar .shop{
+    float:right;
+    margin-left: 15px;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background-color: lightblue;
+    opacity: 0.88;
+}
+.topBar .login{
+    float:right;
+}
+.topBar a{
+	text-decoration:none;
+    color: black;
+    font-size: 12px;
+    display: inline-block;
+    line-height: 40px;
+}
+.topBar .shop a{
+    width: 120px;
+    height: 40px;
+    display: inline-block;
+}
+.topBar a:hover{
+   color: white;
+}
+.topBar span{
+	color: Arsenic; /*银灰色*/
+    margin: 0.5em;
+}
+/*顶部样式end*/
+/*侧边栏样式start*/
+.main_nav{
+	margin-left: -43px;
+    display:block;
+    width:200px;
+    height:100px;
+    padding:10px;   
+    font-weight:bold;  
+    background-color:#BADFF2;
+}
+li{list-style:none;}
+#shopManager {
+    position:absolute;
+    top:3px;
+    left:2px;
+}
+/*导航中每个子菜单的样式*/
+.sideBar{
+    position: absolute;
+    top: 40px;
+}
+#shopManager ul li a{
+    margin-left: -25px;
+    display:block;
+    width:140px;    
+    color:purple;
+    font-weight:bold;
+    text-decoration:none;
+}
+#shopManager li ul li a:hover{
+    background:white;<!--鼠标经过的颜色-->   
+}
+/*侧边栏样式end*/
+
+
+
+
+
+
+

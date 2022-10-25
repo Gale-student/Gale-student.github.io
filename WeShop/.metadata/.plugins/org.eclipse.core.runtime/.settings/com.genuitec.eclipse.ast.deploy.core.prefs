@@ -1,0 +1,13 @@
+#Sun Sep 18 22:38:04 CST 2022
+tomcat7Server.weshop.isUptoDate=true
+tomcat7Server.weshop.shouldBackup=false
+tomcat7Server.weshop.contextRoot=/weshop
+tomcat7Server.weshop.IEARProjectName=
+tomcat7Server.weshop.type=WebDeployment
+tomcat7Server.weshop.isDeployed=true
+eclipse.preferences.version=1
+tomcat7Server.weshop.deployIsOverProject=false
+tomcat7Server.weshop.altContextRoot=
+tomcat7Server.weshop.shouldOverwrite=false
+tomcat7Server.weshop.isExploded=true
+tomcat7Server.weshop.deploymentPath=D\:\\TomCat\\webapps\\weshop
