@@ -1,0 +1,22 @@
+1.自我介绍
+2.项目介绍
+3.为什么学习java
+4.未来的职业规划
+5.题目
+	mybatis的实现流程
+	什么是封装继承多态
+	git的使用
+	为什么使用maven
+	JavaScript或者Jquery的方法有哪些
+	项目中手机号的正则表达式是什么
+	mybatis和controller如何实现联动
+	为什么要使用Spring
+	servlet的作用
+	sql执行顺序
+	mysql索引
+	mysql引擎有哪些
+	创建表时innodb是否可改
+	Spring中的IOC 和 AOP 
+	图片上传如何实现
+	用户登录权限实现
+6.向面试官提问题
